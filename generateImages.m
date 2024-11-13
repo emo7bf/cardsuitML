@@ -1,5 +1,4 @@
 I_base = uint8(zeros([64,64]))+255;
-file_location = 'C:\Users\emo7b\Documents\MATLAB\hearts\white.png';
 
 % Create a deck of seed images of hearts
 I_deck = []
